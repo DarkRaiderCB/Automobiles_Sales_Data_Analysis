@@ -8,7 +8,6 @@ This project involves analyzing and predicting sales data. The dataset contains 
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Modeling](#modeling)
-- [Visualizations](#visualizations)
 - [Conclusions](#conclusions)
 
 ## Overview
@@ -56,9 +55,9 @@ EDA involves visualizing and summarizing the main characteristics of the data. K
 
 Examples:
 
-<img src="./Images/sales_by_day.png">
-<img src="./Images/sales_by_country.png">
-<img src="./Images/product_line.png">
+<img src="../Images/sales_by_day.png">
+<img src="../Images/sales_by_country.png">
+<img src="../Images/product_line.png">
 
 ## Modeling
 Several predictive models are built and evaluated to forecast sales and identify factors influencing sales. Models used include:
@@ -70,7 +69,7 @@ Several predictive models are built and evaluated to forecast sales and identify
 - K-neighbour Regressor
 - XGBoost
 
-<img src="./Images/model.png">
+<img src="../Images/model.png">
 
 ## Conclusions
 1. XGBoost performs the best.
